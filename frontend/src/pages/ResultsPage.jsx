@@ -80,7 +80,7 @@ const ResultsPage = () => {
             <p className="text-xs text-base-content/60 font-mono">Job ID: <span className="text-primary">{jobId}</span></p>
           </div>
           <button
-            onClick={() => window.open(`http://localhost:5000/api/jobs/${jobId}/export`, "_blank")}
+            onClick={() => window.open(`https://recon-x-backend.onrender.com/api/jobs/${jobId}/export`, "_blank")
             className="bg-primary text-primary-content px-4 py-2 rounded text-xs font-bold uppercase tracking-widest flex items-center gap-2 hover:brightness-110 transition-all"
           >
             <Download size={14} /> Export Report
