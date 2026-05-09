@@ -1,0 +1,12 @@
+:root {
+  --color-surface: #051424;
+  --color-surface-container: #122131;
+  --color-primary: #f2ca50;
+  --color-on-surface: #d4e4fa;
+  --color-on-surface-variant: #d0c5af;
+  --color-outline: #99907c;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
