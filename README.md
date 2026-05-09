@@ -222,7 +222,7 @@ daisyui: {
 
 ## 👤 Author
 
-**Saqeeb** — [GitHub](https://github.com/YOUR_USERNAME)
+**Shakeeb** — [GitHub](https://github.com/YOUR_USERNAME)
 
 ---
 
